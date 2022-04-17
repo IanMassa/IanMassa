@@ -1,15 +1,14 @@
-- 🤨 Ta olhando oq?
--  🔭 Student
--  🎮 Gamer
--  🌱 I’m currently learning JAVA
--  😄 Pronouns: Ele/dele
--  ✉️ contact me in e-mail: santiagosilveiraian@gmail.com / ian_silveira@estudante.sesisenai.org.br
--  
-![HeitorWestphal's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMassa&show_icons=true&theme=radical)
+*  Student
+*  Gamer
+*  I’m currently learning JAVA
+*  Pronouns: Ele/dele
+*  e-mail: santiagosilveiraian@gmail.com / ian_silveira@estudante.sesisenai.org.br
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IanMassa&repo=portfolio&show_icons=true&theme=radical)](https://github.com/IanMassa/portfolio)                           
+![IanMassa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMassa&show_icons=true&theme=great-gatsby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMassa&show_icons=true&theme=dark)](https://github.com/IanMassa/github-readme-stats)    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IanMassa&repo=portfolio&show_icons=true&theme=great-gatsby)](https://github.com/IanMassa/portfolio)                           
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMassa&show_icons=true&theme=great-gatsby)](https://github.com/IanMassa/github-readme-stats)    
 ##
 
 </div>
