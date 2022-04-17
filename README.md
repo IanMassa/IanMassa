@@ -1,16 +1,23 @@
-### Hi there 👋
+- 🤨 Ta olhando oq?
+-  🔭 Student
+-  🎮 Gamer
+-  🌱 I’m currently learning JAVA
+-  😄 Pronouns: Ele/dele
+-  ✉️ contact me in e-mail: santiagosilveiraian@gmail.com / ian_silveira@estudante.sesisenai.org.br
+-  
+![HeitorWestphal's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMassa&show_icons=true&theme=radical)
 
-<!--
-**IanMassa/IanMassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IanMassa&repo=portfolio&show_icons=true&theme=radical)](https://github.com/IanMassa/portfolio)                           
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMassa&show_icons=true&theme=dark)](https://github.com/IanMassa/github-readme-stats)    
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<a href="https://www.instagram.com/ian_ss9561/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/hypetaonline"_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/782TCXXPTm"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:santiagosilveiraian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  </div>
+
+ 
