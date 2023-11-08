@@ -1,5 +1,4 @@
 *  Student
-*  Gamer
 *  I’m currently learning JAVA
 *  Pronouns: Ele/dele
 *  e-mail: santiagosilveiraian@gmail.com / ian_silveira@estudante.sesisenai.org.br
